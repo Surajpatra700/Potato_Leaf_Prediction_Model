@@ -19,9 +19,7 @@
 
 🔖 Scalability: Built with scalability in mind, the model can be easily integrated into existing farming workflows, allowing for widespread adoption and impact.
 
-### :anchor: Features and Interface
-
-<img src = "https://drive.google.com/file/d/1rhzQTO-tcSDjKIFGMV-qC0EnNlTFw-qV/view?usp=drive_link" width="640" height="480" hspace="15">
+### :anchor: Interface
 
 ![Image Alt Text](https://drive.google.com/uc?id=1rhzQTO-tcSDjKIFGMV-qC0EnNlTFw-qV)
 
