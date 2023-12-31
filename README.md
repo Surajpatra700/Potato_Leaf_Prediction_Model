@@ -21,4 +21,4 @@
 
 ### :anchor: Features and Interface
 
-<img src = "C:\Users\suraj\OneDrive\Pictures\Screenshots\Screenshot (18).png" width="150" height="280" hspace="15">
+<img src = "https://drive.google.com/file/d/1rhzQTO-tcSDjKIFGMV-qC0EnNlTFw-qV/view?usp=drive_link" width="640" height="480" hspace="15">
