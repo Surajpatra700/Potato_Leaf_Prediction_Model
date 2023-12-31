@@ -6,7 +6,8 @@
 
 ## :magnet: **Tech Stacks**
 
-* *Python* 
+* *Python*
+* * *Google Colab* 
 * *Convolutional Nueral Network* 
   
   ## :key: Key Features:
