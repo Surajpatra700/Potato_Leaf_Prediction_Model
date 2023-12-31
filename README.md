@@ -12,10 +12,13 @@
   ## :key: Key Features:
 
 🔖 Accurate Classification: The model excels in distinguishing between healthy leaves, early blight, and late blight, providing reliable predictions for each image input.
+
 🔖 User-Friendly Interface: A user-friendly interface facilitates seamless interaction, making it accessible for farmers to utilize the model without requiring extensive technical expertise.
+
 🔖 Crop Management Recommendations: In addition to classification, the model provides tailored recommendations for managing crops based on the predicted health status, offering actionable insights for optimized cultivation.
+
 🔖 Scalability: Built with scalability in mind, the model can be easily integrated into existing farming workflows, allowing for widespread adoption and impact.
 
 ### :anchor: Features and Interface
 
-<img src = ""C:\Users\suraj\OneDrive\Pictures\Screenshots\Screenshot (18).png" width="150" height="280" hspace="15">
+<img src = "C:\Users\suraj\OneDrive\Pictures\Screenshots\Screenshot (18).png" width="150" height="280" hspace="15">
