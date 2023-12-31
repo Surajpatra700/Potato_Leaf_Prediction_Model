@@ -2,7 +2,7 @@
 
 ## :dizzy: Description
 
-### "Potato Leaf Prediction," is a cutting-edge Computer Vision model designed to revolutionize crop management for farmers. This innovative tool analyzes images of potato leaves and swiftly determines whether the crop is healthy, afflicted with Early Blight, or Late Blight. Empowering farmers with real-time insights, this GitHub repository aims to enhance crop yield by providing accurate and timely predictions, fostering effective decision-making in agricultural practices.
+"Potato Leaf Prediction," is a cutting-edge Computer Vision model designed to revolutionize crop management for farmers. This innovative tool analyzes images of potato leaves and swiftly determines whether the crop is healthy, afflicted with Early Blight, or Late Blight. Empowering farmers with real-time insights, this GitHub repository aims to enhance crop yield by providing accurate and timely predictions, fostering effective decision-making in agricultural practices.
 
 ## :magnet: **Tech Stacks**
 
